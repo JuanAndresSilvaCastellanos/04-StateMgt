@@ -15,7 +15,7 @@ loop = asyncio.get_event_loop()
 
 #Localsetting
 #botadaptersettings = BotFrameworkAdapterSettings("","")
-botadaptersettings = BotFrameworkAdapterSettings("8ad3bc67-1e08-44d4-b87d-d68db23423a4","U5i5MxZDsKlZL0-0Ax-X_Go7HSSQEf-a-S")
+botadaptersettings = BotFrameworkAdapterSettings("8ad3bc67-1e08-44d4-b87d-d68db23423a4","e69e4993-d5c7-4709-88ac-eb118fd6870d")
 botadapter = BotFrameworkAdapter(botadaptersettings)
 
 memstore = MemoryStorage()
